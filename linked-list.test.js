@@ -146,3 +146,11 @@ describe("average", function() {
     expect(lst.average()).toBe(0);
   });
 });
+
+// describe("sortLists", function(){
+//   it("combines two sorted lists into one big sorted list.", function() {
+//     let lst = new LinkedList([2, 5, 8, 15]);
+//     let lst2 = new LinkedList([1, 5, 9, 13, 14]);
+//     expect()
+//   })
+// })
